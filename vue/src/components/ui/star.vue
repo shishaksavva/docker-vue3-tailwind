@@ -1,0 +1,20 @@
+<template>
+  <div
+    class="
+      dark:text-black
+      text-sm
+      flex
+      justify-start
+      align-center
+      mt-3
+      rounded-[10px]
+      h-[20px]
+      p-5px
+      pl-[10px]
+      w-[120px]
+      bg-[#ffab3c]
+    "
+  >
+    <slot></slot>
+  </div>
+</template>
